@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_1.srcs/sim_1/new/ReqA.v" \
+"../../../../project_1.srcs/sim_1/new/clkA.v" \
+"../../../../project_1.srcs/sim_1/new/clkB.v" \
+"../../../../project_1.srcs/sim_1/new/systemA.v" \
+"../../../../project_1.srcs/sim_1/new/systemB.v" \
+"../../../../project_1.srcs/sim_1/new/hs_tf_r_hw.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

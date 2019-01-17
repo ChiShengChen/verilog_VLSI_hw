@@ -1,0 +1,11 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/verilog_hw/hw1_N/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/ReqA.v,1545487118,verilog,,D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/clkA.v,,ReqA,,,,,,,,
+D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/clkA.v,1545432033,verilog,,D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/clkB.v,,clkA,,,,,,,,
+D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/clkB.v,1545430962,verilog,,D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/systemA.v,,clkB,,,,,,,,
+D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/hs_tf_r_hw.v,1545486430,verilog,,,D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/clkA.v;D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/clkB.v;D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/ReqA.v;D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/systemA.v;D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/systemB.v,hs_tf_r_hw,,,,,,,,
+D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/systemA.v,1545485720,verilog,,D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/systemB.v,,systemA,,,,,,,,
+D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/systemB.v,1545430682,verilog,,D:/verilog_hw/hw1_N/project_1/project_1.srcs/sim_1/new/hs_tf_r_hw.v,,systemB,,,,,,,,

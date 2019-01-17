@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_hw/MAC/MAC1/MAC1.V" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mac1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_hw/MAC/MAC1/MAC1.TF" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module t
